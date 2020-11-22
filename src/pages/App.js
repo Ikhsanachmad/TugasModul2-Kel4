@@ -24,7 +24,7 @@ function App() {
         <Card nama="Yudhi Kasih" nim="21120117140030" photo={yudhi} />
       </Content>
       <Footer style={{ textAlign: "center", color: "#004643" }}>
-        @{year} Created by Kelompok 30
+        @{year} Created by Admin SSO
       </Footer>
     </Layout>
   );
